@@ -1,0 +1,3 @@
+function fancyFunksjon(x) {
+  return ("ÅNEI! er en bug")
+}
